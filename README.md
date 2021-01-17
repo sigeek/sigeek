@@ -3,7 +3,27 @@
  <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigeek&label=Profile%20views&color=0e75b6&style=flat" alt="sigeek" /> </p> -->
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/silvia-giammarinaro"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+📫 How to reach me <a href="https://www.linkedin.com/in/silvia-giammarinaro"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+✅ Finished projects:
+* [`Sentiment analysis`](https://github.com/sigeek/sentiment-analysis): italian hotel review analysis
+* [`Breast cancer analysis`](https://github.com/sigeek/breast-cancer-analysis) using and comparing the main machine learning algoritmhs
+* [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning
+* [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/rgbd-da-project)
+
+🚧 Repositories to complete: 
+* [`Data Science Lab homework`](https://github.com/sigeek/data-science-lab-homework) pandas and sklearn assignments 
+* [`Bioinformatics labs`](https://github.com/sigeek/bioinformatics-labs) 
+
+💻 Currect projects:
+* Comparison of different segmentation and synthetic data generation methods applied to chest X Rays from COVID-19 patients. We plan to compare different methods such as UNET, autoencoders, GAN, colorization techniques. Final project for the course "Bioinformatics" (coming March 2021)
+* COVID-19 trends in Italy: epidemic models vs Deep Learning. Final project for the course "Mathemical models for biomedicine" (coming March 2021)
+* E-valuation: web application for high school teachers. Final project for the course "Human Computer Interaction" (coming Febraury 2021)
+
+🔜 Future projects: 
+* Master thesis (to be defined)
+* Julia from Tensoflow: Beginner guide to CNN in Julia for Tensorflow and Keras users. 
+
 
 <h3 align="left">Machine learning and deep learning:</h3> 
 <p align="left"> 
