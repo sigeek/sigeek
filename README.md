@@ -6,10 +6,10 @@
 📫 How to reach me <a href="https://www.linkedin.com/in/silvia-giammarinaro"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 ✅ Finished projects:
-* [`Sentiment analysis`](https://github.com/sigeek/sentiment-analysis): italian hotel review analysis
-* [`Breast cancer analysis`](https://github.com/sigeek/breast-cancer-analysis) using and comparing the main machine learning algoritmhs
-* [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning
-* [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/rgbd-da-project)
+* [`Sentiment analysis`](https://github.com/sigeek/sentiment-analysis): italian hotel review analysis using pandas and sklearn
+* [`Breast cancer analysis`](https://github.com/sigeek/breast-cancer-analysis) using and comparing the main machine learning algoritmhs using sklearn 
+* [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning using sklearn and Pytorch
+* [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/rgbd-da-project) project involving the replication of a paper plus two new variants using Pytorch
 
 🚧 Repositories to complete: 
 * [`Data Science Lab homework`](https://github.com/sigeek/data-science-lab-homework) pandas and sklearn assignments 
