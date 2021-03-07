@@ -9,7 +9,7 @@
 * [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/rgbd-da-project) project involving the replication of a paper plus two new variants using Pytorch
 * [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning using sklearn and Pytorch
 * [`Breast cancer analysis`](https://github.com/sigeek/breast-cancer-analysis) using and comparing the main machine learning algoritmhs using sklearn
-* [`Sanremo 2021`]: wordcloud from all the songs competing in the Sanremo Festival Italian Song Contest
+* [`Sanremo 2021`](https://github.com/sigeek/sanremo-2021) wordcloud from all the songs competing in the Sanremo Festival Italian Song Contest
 * [`Sentiment analysis`](https://github.com/sigeek/sentiment-analysis): italian hotel review analysis using pandas and sklearn
 
 <!-- 
