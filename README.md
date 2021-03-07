@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Silvia Giammarinaro</h1>
 <h3 align="center">A Data science and Engineering student from Politecnico di Torino</h3>
- <!--
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigeek&label=Profile%20views&color=0e75b6&style=flat" alt="sigeek" /> </p> -->
 
 📫 How to reach me <a href="https://www.linkedin.com/in/silvia-giammarinaro"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 ✅ Finished projects:
-* [`Sentiment analysis`](https://github.com/sigeek/sentiment-analysis): italian hotel review analysis using pandas and sklearn
-* [`Breast cancer analysis`](https://github.com/sigeek/breast-cancer-analysis) using and comparing the main machine learning algoritmhs using sklearn 
-* [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning using sklearn and Pytorch
 * [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/rgbd-da-project) project involving the replication of a paper plus two new variants using Pytorch
+* [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning using sklearn and Pytorch
+* [`Breast cancer analysis`](https://github.com/sigeek/breast-cancer-analysis) using and comparing the main machine learning algoritmhs using sklearn
+* [`Sanremo 2021`]: wordcloud from all the songs competing in the Sanremo Festival Italian Song Contest
+* [`Sentiment analysis`](https://github.com/sigeek/sentiment-analysis): italian hotel review analysis using pandas and sklearn
 
+<!-- 
 🚧 Repositories to complete: 
 * [`Data Science Lab homework`](https://github.com/sigeek/data-science-lab-homework) pandas and sklearn assignments 
-* [`Bioinformatics labs`](https://github.com/sigeek/bioinformatics-labs) 
+* [`Bioinformatics labs`](https://github.com/sigeek/bioinformatics-labs) -->
 
 💻 Currect projects:
 * [`COVID-19 trends in Italy: epidemiological  models and Deep Learning compared`](https://github.com/sigeek/fitting-covid-19) final project for the course "Mathemical models for biomedicine" 
