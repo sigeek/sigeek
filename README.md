@@ -18,7 +18,7 @@
 * [`Bioinformatics labs`](https://github.com/sigeek/bioinformatics-labs) -->
 
 💻 Currect projects:
-* [`COVID-19 trends in Italy: epidemiological models`](https://github.com/sigeek/fitting-covid-19) final project for the course "Mathemical models for biomedicine" 
+* [`COVID-19 epidemic in Italy: epidemiological models`](https://github.com/sigeek/fitting-covid-19) final project for the course "Mathemical models for biomedicine" 
 * [`COVID 19 Chest X-Rays Deep Learning analysis`](https://github.com/Gialbo/COVID-Chest-X-Rays-Deep-Learning-analysis): Comparison of different segmentation and synthetic data generation methods applied to chest X Rays from COVID-19 patients. We plan to compare different methods such as UNET, autoencoders, GAN, colorization techniques. Final project for the course "Bioinformatics" (coming March 2021)
 
 🔜 Future projects: 
