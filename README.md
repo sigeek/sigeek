@@ -8,15 +8,15 @@
 ✅ Finished projects:
 * [`COVID-19 epidemic in Italy: epidemiological models`](https://github.com/sigeek/fitting-covid-19) final project for the course "Mathemical models for biomedicine";
 * [`Bioinformatics labs`](https://github.com/sigeek/bioinformatics-labs) lab solutions of the course "Bioinformatics";
-* [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/rgbd-da-project) project involving the replication of a paper plus two new variants using Pytorch;
+* [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/mldl-rgbd-da) project involving the replication of a paper plus two new variants using Pytorch;
 * [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning using sklearn and Pytorch;
-* [`Breast cancer analysis`](https://github.com/sigeek/breast-cancer-analysis) comparing the main machine learning algoritmhs using the sklearn library;
+* [`Breast cancer analysis`](https://github.com/sigeek/mml-breast-cancer-analysis) comparing the main machine learning algoritmhs using the sklearn library;
 * [`Sanremo 2021`](https://github.com/sigeek/sanremo-2021) wordcloud from all the songs competing in the Sanremo Festival Italian Song Contest;
-* [`Sentiment analysis`](https://github.com/sigeek/sentiment-analysis): italian hotel review analysis using pandas and sklearn.
+* [`Sentiment analysis`](https://github.com/sigeek/dsl-sentiment-analysis): italian hotel review analysis using pandas and sklearn.
 
 <!-- 
 🚧 Repositories to complete: 
-* [`Data Science Lab homework`](https://github.com/sigeek/data-science-lab-homework) pandas and sklearn assignments 
+* [`Data Science Lab homework`](https://github.com/sigeek/dsl-homework) pandas and sklearn assignments 
  -->
 
 💻 Currect projects:
