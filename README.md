@@ -6,6 +6,7 @@
 📫 How to reach me <a href="https://www.linkedin.com/in/silvia-giammarinaro"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 ✅ Finished projects:
+* [`COVID 19 Chest X-Rays Deep Learning analysis`](https://github.com/Gialbo/COVID-Chest-X-Rays-Deep-Learning-analysis): Comparison of different GAN-based synthetic data generation methods applied to chest X-Rays from COVID-19, Viral Pneumonia and Normal patients. Final project code for the course "Bioinformatics", A.Y. 2020/2021. 
 * [`COVID-19 epidemic in Italy: epidemiological models`](https://github.com/sigeek/fitting-covid-19) final project for the course "Mathemical models for biomedicine";
 * [`Bioinformatics labs`](https://github.com/sigeek/bioinformatics-labs) lab solutions of the course "Bioinformatics";
 * [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/mldl-rgbd-da) project involving the replication of a paper plus two new variants using Pytorch;
@@ -20,8 +21,7 @@
  -->
 
 💻 Currect projects:
-* [`COVID 19 Chest X-Rays Deep Learning analysis`](https://github.com/Gialbo/COVID-Chest-X-Rays-Deep-Learning-analysis): Comparison of different segmentation and synthetic data generation methods applied to chest X Rays from COVID-19 patients. We plan to compare different methods such as UNET, autoencoders, GAN, colorization techniques. Final project for the course "Bioinformatics" (coming March 2021)
-* Master's thesis 😍
+* Master's thesis
 
 🔜 Future projects: 
 * Julia from Tensoflow: Beginner guide to CNN in Julia for Tensorflow and Keras users. 
