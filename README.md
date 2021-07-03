@@ -13,7 +13,7 @@
 * [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning using sklearn and Pytorch;
 * [`Breast cancer analysis`](https://github.com/sigeek/mml-breast-cancer-analysis) comparing the main machine learning algoritmhs using the sklearn library;
 * [`Sanremo 2021`](https://github.com/sigeek/sanremo-2021) wordcloud from all the songs competing in the Sanremo Festival Italian Song Contest;
-* [`Sentiment analysis`](https://github.com/sigeek/dsl-sentiment-analysis): italian hotel review analysis using pandas and sklearn.
+* [`Sentiment analysis`](https://github.com/sigeek/dsl-sentiment-analysis) italian hotel review analysis using pandas and sklearn.
 
 <!-- 
 🚧 Repositories to complete: 
@@ -23,8 +23,6 @@
 💻 Currect projects:
 * Master's thesis
 
-🔜 Future projects: 
-* Julia from Tensoflow: Beginner guide to CNN in Julia for Tensorflow and Keras users. 
 
 
 <h3 align="left">Machine learning and deep learning:</h3> 
