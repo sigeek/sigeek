@@ -8,6 +8,7 @@
 ✅ Finished projects:
 * [`COVID 19 Chest X-Rays Deep Learning analysis`](https://github.com/Gialbo/COVID-Chest-X-Rays-Deep-Learning-analysis): Comparison of different GAN-based synthetic data generation methods applied to chest X-Rays from COVID-19, Viral Pneumonia and Normal patients. Final project code for the course "Bioinformatics", A.Y. 2020/2021. 
 * [`COVID-19 epidemic in Italy: epidemiological models`](https://github.com/sigeek/fitting-covid-19) final project for the course "Mathemical models for biomedicine";
+* [`Network dynamics and learning homework`](https://github.com/sigeek/ndl-homework) homework for the course "Network Dynamics and Learning";
 * [`Bioinformatics labs`](https://github.com/sigeek/bioinformatics-labs) lab solutions of the course "Bioinformatics";
 * [`Unsupervised Domain Adaptation through rotation as regression for RGB-D Object Recognition`](https://github.com/sigeek/mldl-rgbd-da) project involving the replication of a paper plus two new variants using Pytorch;
 * [`Machine Learning and Deep Learning homework`](https://github.com/sigeek/mldl-homework): assignments concerning SVM, KNN, CNN, transfer learning using sklearn and Pytorch;
