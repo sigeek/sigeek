@@ -22,7 +22,7 @@
  -->
 
 💻 Currect projects:
-* Master's thesis
+* tbd
 
 
 
