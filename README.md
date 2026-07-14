@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Silvia Giammarinaro</h1>
-<h3 align="center">A Data science and Engineering student from Politecnico di Torino</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigeek&label=Profile%20views&color=0e75b6&style=flat" alt="sigeek" /> </p> -->
 
